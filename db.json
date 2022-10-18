@@ -1,0 +1,76 @@
+{
+    "datas": [
+        {
+            "title": "Strawberries",
+            "price": "360",
+            "date": "9-4-2022",
+            "image": "https://cdn.pixabay.com/photo/2018/04/29/11/54/strawberries-3359755_1280.jpg"
+        },
+        {
+            "title": "Apple",
+            "price": "120",
+            "date": "2-11-2020",
+            "image": "https://cdn.pixabay.com/photo/2016/01/05/13/58/apple-1122537_1280.jpg"
+        },
+        {
+            "title": "Oranges",
+            "price": "410",
+            "date": "2-8-2017",
+            "image": "https://cdn.pixabay.com/photo/2017/01/20/15/12/oranges-1995079_1280.jpg"
+        },
+        {
+            "title": "Pears",
+            "price": "260",
+            "date": "12-8-2022",
+            "image": "https://cdn.pixabay.com/photo/2016/07/22/09/59/fruits-1534494_1280.jpg"
+        },
+        {
+            "title": "Blueberries",
+            "price": "190",
+            "date": "8-2-2012",
+            "image": "https://cdn.pixabay.com/photo/2018/07/03/10/47/blueberries-3513547_1280.jpg"
+        },
+        {
+            "title": "Pineapples",
+            "price": "320",
+            "date": "11-8-2018",
+            "image": "https://cdn.pixabay.com/photo/2016/11/23/15/20/pineapples-1853466_1280.jpg"
+        },
+        {
+            "title": "Tomatoes",
+            "price": "230",
+            "date": "30-8-2019",
+            "image": "https://cdn.pixabay.com/photo/2014/04/10/11/06/tomatoes-320860_1280.jpg"
+        },
+        {
+            "title": "Watermelon",
+            "price": "180",
+            "date": "1-6-2021",
+            "image": "https://cdn.pixabay.com/photo/2017/01/10/19/05/watermelon-1969949_1280.jpg"
+        },
+        {
+            "title": "Bananas",
+            "price": "500",
+            "date": "19-7-2022",
+            "image": "https://cdn.pixabay.com/photo/2014/12/21/23/39/bananas-575773_1280.png"
+        },
+        {
+            "title": "Cherries",
+            "price": "350",
+            "date": "24-12-2022",
+            "image": "https://cdn.pixabay.com/photo/2016/06/02/15/40/cherries-1431323_1280.jpg"
+        },
+        {
+            "title": "Coconuts",
+            "price": "180",
+            "date": "7-4-2022",
+            "image": "https://cdn.pixabay.com/photo/2018/03/13/08/37/india-coconut-3221935_1280.jpg"
+        },
+        {
+            "title": "Lime",
+            "price": "240",
+            "date": "20-10-2022",
+            "image": "https://cdn.pixabay.com/photo/2014/06/29/12/53/lime-379377_1280.jpg"
+        }
+    ]
+}
